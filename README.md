@@ -11,12 +11,12 @@ The goal of this project is to predict whether a patient will recover within a s
    - Normalized numerical features using **StandardScaler**
 
 2. **Modeling**
-   - Implemented and compared multiple regression models:
+   Implemented and compared multiple regression models:
      - Random Forest Regressor  
      - Gradient Boosting Regressor  
      - XGBoost Regressor
 
 3. **Evaluation**
-   - Used **R² Score**, **MAE**, and **RMSE** for performance comparison
+   Used **R² Score**, **MAE**, and **RMSE** for performance comparison
 
 ---
