@@ -13,6 +13,7 @@ The goal of this project is to predict whether a patient will recover within a s
 2. **Modeling**
    
    Implemented and compared multiple regression models:
+     - Linear Regression using LASSO
      - Random Forest Regressor  
      - Gradient Boosting Regressor  
      - XGBoost Regressor
