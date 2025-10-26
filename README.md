@@ -1,6 +1,6 @@
 # Patient Recovery Prediction Challenge
 
-This repository contains the solution for the **Patient Recovery Prediction Challenge** on Kaggle, completed as part of a **AIT 511 Machine Learning Course**.  
+This repository contains the solution for the **Patient Recovery Prediction Challenge** on Kaggle, completed as part of **AIT 511 Machine Learning Course**.  
 The goal of this project is to predict whether a patient will recover within a specific timeframe based on their medical records, treatment history, and demographic features.
 
 ---
